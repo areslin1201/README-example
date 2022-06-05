@@ -4,14 +4,14 @@
 
 ## 目錄結構
 * [基本資訊](#基本資訊)
-* [Technologies Used](#technologies-used)
-* [Features](#features)
-* [Screenshots](#screenshots)
-* [Setup](#setup)
-* [Usage](#usage)
-* [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
+* [使用技術](#使用技術)
+* [特徵](#特徵)
+* [圖片](#圖片)
+* [部屬設置](#部屬設置)
+* [用法](#用法)
+* [項目狀態](#項目狀態)
+* [改進空間](#改進空間)
+* [致謝](#致謝)
 * [聯繫我們](#聯繫我們)
 <!-- * [License](#license) -->
 
