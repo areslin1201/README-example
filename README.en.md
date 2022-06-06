@@ -6,13 +6,13 @@ other language: [ENGLISH](README.en.md), [简体中文](README.zh-cn.md)
 
 ## Table of Contents
 * [Information](#Information)
-* [Technologies Used](#Technologies Used)
+* [Technologies Used](#Technologies-Used)
 * [Features](#Features)
 * [Images](#Images)
 * [Setup](#Setup)
 * [Usage](#Usage)
-* [Project Status](#Project Status)
-* [Room for Improvement](#Room for Improvement)
+* [Project Status](#Project-Status)
+* [Room for Improvement](#Room for-Improvement)
 * [Acknowledgements](#Acknowledgements)
 * [Contact](#Contact)
 <!-- * [License](#license) -->
